@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61130710056",
+    "project_id": "plentinaapp",
+    "storage_bucket": "plentinaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61130710056:android:fe7973bd0e19767a95e91d",
+        "android_client_info": {
+          "package_name": "com.plentina.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61130710056-q8eah36eb06or86m2hcu1mig5nkkfvgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDuJeGaij12drGBJezm891sG6LHxO34ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61130710056-q8eah36eb06or86m2hcu1mig5nkkfvgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
